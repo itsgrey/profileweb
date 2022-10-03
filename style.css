@@ -1,0 +1,107 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+section {
+    margin-top: 50px;
+}
+
+/* Header Quote */
+
+header {
+    padding: 10px 5px;
+    background-color: #3e3e3e;
+    color: white;
+    text-align: center;
+}
+
+/* About Me */
+
+#about {
+    text-align: center;
+    display: inline-block;
+}
+
+.text {
+    margin: auto;
+    width: 60%;
+    padding: 1%;
+}
+
+.heading {
+    font-size: 40px;
+    margin-bottom: 4%;
+}
+
+.image{
+    height: 350px;
+    width: auto;
+    padding:1%;
+}
+
+/* My Skills */
+
+#skills {
+    text-align: center;
+    background-color: #E4DCCF;
+    padding: 5%;
+    margin-bottom: 0px;
+    font-size: 40px;
+    padding-bottom: 2%;
+}
+
+.img {
+    margin-top: 3%;
+    padding: 35px;
+}
+
+/* My Hobbies */
+
+#hobbies {
+
+    margin: 0px;
+    background-color: #F0EBE3;
+    text-align: center;
+    padding: 5%;
+    font-size: 40px;
+}
+
+.hobby img {
+    height: 100px;
+    width: 100px;
+    padding: 5%;
+    margin-top: 20px;
+    padding-bottom: 0px;
+}
+
+/* Map Embedding */
+
+#map {
+    height: auto;
+    width: auto;
+    padding: 2%;
+    background-color: white;
+    text-align: center;
+    margin-top: 0px;
+}
+
+/* Social Links */
+
+footer {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    background-color: #3e3e3e;
+    color: white;
+}
+
+.socials{
+    height: 25px;
+    width: 25px;
+    margin: 8px;
+    background-color: white;
+    border-radius: 25%;
+}
